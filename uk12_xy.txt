@@ -1,0 +1,20 @@
+#  uk12_xy.txt
+#  updated by Victor GALISSON
+#  December 2017  12:04:20.169 PM
+#
+#  Spatial dimension M =        2
+#  Number of points N =       12
+#  
+#
+434	641 
+656	787
+481	296
+460	799
+421	305
+424	138
+493	546
+655	724
+571	394
+599	590
+592	703
+667	712
